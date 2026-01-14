@@ -41,3 +41,5 @@ This project helps identify **high-risk customers early**, understand churn driv
 pip install -r requirements.txt
 
 streamlit run app/streamlit_app_Master.py
+
+Note : In case the notebook is not visible, then download and then it should be visible 👍
