@@ -39,4 +39,5 @@ This project helps identify **high-risk customers early**, understand churn driv
 ## ▶️ Run the Project
 ```bash
 pip install -r requirements.txt
-streamlit run app/streamlit_app_master.py
+
+streamlit run app/streamlit_app_Master.py
